@@ -8,10 +8,10 @@ Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan pro
 
 ## 🚀 Tentang Saya
 
-- 🎨 Mendesain logo, branding, dan konten visual kreatif
+- 🎨 Mahir desain dengan **Adobe Illustrator**, **Adobe Photoshop**, dan **Canva**
 - 💻 Mengembangkan aplikasi mobile & web dari desain sampai produksi
+- 🎓 Lulusan **D4 Multimedia** dengan IPK **3,83 / 4,00**
 - ✨ Fokus pada kombinasi *user experience* (UX) dan *visual identity*
-- 🌱 Sedang memperdalam ... *(isi di sini)*
 - 💬 Tanya saya tentang desain, UI/UX, atau pengembangan aplikasi
 
 ---
@@ -20,16 +20,16 @@ Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan pro
 
 | Desain | Development |
 |--------|-------------|
-| Logo & Branding | Mobile Apps |
-| UI/UX Design | Web Apps |
-| Poster & Social Media | HTML / CSS / JavaScript |
-| Ilustrasi & Manipulasi Foto | ... *(isi di sini)* |
+| Adobe Illustrator | Mobile Apps |
+| Adobe Photoshop | Web Apps |
+| Canva | HTML / CSS / JavaScript |
+| Logo & Branding, Poster, Ilustrasi | ... *(isi di sini)* |
 
 ---
 
 ## 🧰 Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

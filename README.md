@@ -1,29 +1,29 @@
-# Halo, Saya Han! 👋
+# Hi, I'm Han! 👋
 
 ### 🎨 Graphics Designer & 💻 App Developer
 
-Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan produk digital yang indah dan fungsional.
+I combine visual design and app development to create digital products that are both beautiful and functional.
 
 ---
 
-## 🚀 Tentang Saya
+## 🚀 About Me
 
-- 🎨 Mahir desain dengan **Adobe Illustrator**, **Adobe Photoshop**, dan **Canva**
-- 💻 Mengembangkan aplikasi web & backend dengan **Node.js/Express**
-- 🎓 Lulusan **D4 Multimedia** dengan IPK **3,83 / 4,00**
-- ✨ Fokus pada kombinasi *user experience* (UX) dan *visual identity*
-- 💬 Tanya saya tentang desain, UI/UX, atau pengembangan aplikasi
+- 🎨 Skilled in design with **Adobe Illustrator**, **Adobe Photoshop**, and **Canva**
+- 💻 Building web apps & backends with **Node.js/Express**
+- 🎓 **D4 Multimedia** graduate with a GPA of **3.83 / 4.00**
+- ✨ Focused on the blend of *user experience* (UX) and *visual identity*
+- 💬 Ask me about design, UI/UX, or app development
 
 ---
 
 ## 🛠️ Skills
 
-| Desain | Development |
+| Design | Development |
 |--------|-------------|
 | Adobe Illustrator | Node.js & Express (Backend) |
 | Adobe Photoshop | HTML / CSS / JavaScript |
 | Canva | Web App & Server Panel |
-| Logo & Branding, Poster, Ilustrasi | REST API & Integrasi SSH |
+| Logo & Branding, Poster, Illustration | REST API & SSH Integration |
 
 ---
 
@@ -39,24 +39,24 @@ Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan pro
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!-- Tambahkan tools lain yang kamu pakai di sini -->
+<!-- Add other tools you use here -->
 
 ---
 
-## 📌 Portofolio Terpilih
+## 📌 Featured Projects
 
-> *(Tambah proyek desain & aplikasi kamu di sini — boleh pakai gambar preview via `<img>` atau link live demo)*
+> *(Add your design & app projects here — you can use `<img>` previews or live demo links)*
 
-### 1. Nama Proyek Aplikasi
-Deskripsi singkat proyek. **Stack:** ...
+### 1. Project Name (App)
+Short project description. **Stack:** ...
 [🔗 Demo](https://example.com) · [📁 Repo](https://github.com/Han-ooman)
 
-### 2. Nama Proyek Desain
-Deskripsi singkat proyek desain (brand identity, poster, dsb.).
-[🔗 Lihat](https://example.com)
+### 2. Project Name (Design)
+Short project description (brand identity, poster, etc.).
+[🔗 View](https://example.com)
 
-### 3. Nama Proyek Lainnya
-Deskripsi singkat proyek.
+### 3. Other Project Name
+Short project description.
 [🔗 Demo](https://example.com) · [📁 Repo](https://github.com/Han-ooman)
 
 ---
@@ -69,9 +69,9 @@ Deskripsi singkat proyek.
 
 ---
 
-## 📫 Hubungi Saya
+## 📫 Contact Me
 
 - GitHub: [@Han-ooman](https://github.com/Han-ooman)
-- Email: *(isi email kamu)*
-- Dribbble / Behance: *(isi link portfolio kamu)*
-- LinkedIn: *(isi link LinkedIn kamu)*
+- Email: *(add your email)*
+- Dribbble / Behance: *(add your portfolio links)*
+- LinkedIn: *(add your LinkedIn link)*

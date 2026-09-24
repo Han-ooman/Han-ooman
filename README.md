@@ -9,7 +9,7 @@ Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan pro
 ## 🚀 Tentang Saya
 
 - 🎨 Mahir desain dengan **Adobe Illustrator**, **Adobe Photoshop**, dan **Canva**
-- 💻 Mengembangkan aplikasi mobile & web dari desain sampai produksi
+- 💻 Mengembangkan aplikasi web & backend dengan **Node.js/Express**
 - 🎓 Lulusan **D4 Multimedia** dengan IPK **3,83 / 4,00**
 - ✨ Fokus pada kombinasi *user experience* (UX) dan *visual identity*
 - 💬 Tanya saya tentang desain, UI/UX, atau pengembangan aplikasi
@@ -20,10 +20,10 @@ Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan pro
 
 | Desain | Development |
 |--------|-------------|
-| Adobe Illustrator | Mobile Apps |
-| Adobe Photoshop | Web Apps |
-| Canva | HTML / CSS / JavaScript |
-| Logo & Branding, Poster, Ilustrasi | ... *(isi di sini)* |
+| Adobe Illustrator | Node.js & Express (Backend) |
+| Adobe Photoshop | HTML / CSS / JavaScript |
+| Canva | Web App & Server Panel |
+| Logo & Branding, Poster, Ilustrasi | REST API & Integrasi SSH |
 
 ---
 
@@ -35,6 +35,8 @@ Saya menggabungkan desain visual dan pengembangan aplikasi untuk menciptakan pro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <!-- Tambahkan tools lain yang kamu pakai di sini -->

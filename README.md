@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi, I'm Han! 👋
 
 ### 🎨 Graphics Designer & 💻 App Developer

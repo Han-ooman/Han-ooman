@@ -1,5 +1,5 @@
 ![Banner](banner.png)
-![Banner](SambasKu.png)
+![Banner](SambasKu.jpg)
 
 # Hi, I'm Han! 👋
 
